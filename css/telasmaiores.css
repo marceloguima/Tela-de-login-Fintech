@@ -41,7 +41,7 @@
         text-align: center;
         position: relative;
         left: 13%;
-        top: 10px;
+        top: 30px;
         font-size: 120%;
         margin: 10px;
         font-weight: 500;
@@ -52,8 +52,8 @@
         position: relative;
         overflow-wrap: break-word;
         width: 250px;
-        left: 300px;
-        top: 200px;
+        left: 320px;
+        top: 100px;
     }
 
     button {
@@ -67,4 +67,13 @@
         font-size: 17px;
 
     }
+
+    .fintech {
+        display: block;
+        position: relative;
+        width: 250px;
+        left: 320px;
+        
+    }
+
 }
